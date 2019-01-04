@@ -1,0 +1,4 @@
+services:
+    NetBull\RoutingBundle\Routing\Router:
+        tags:
+            - { name: router, priority: 50 }
