@@ -1,7 +1,7 @@
 RoutingBundle
 ==========
 
-[![Build Status](https://travis-ci.org/netbull/MediaBundle.svg?branch=master)](https://travis-ci.org/netbull/RoutingBundle)<br>
+[![Build Status](https://travis-ci.org/netbull/RoutingBundle.svg?branch=master)](https://travis-ci.org/netbull/RoutingBundle)<br>
 
 To add routes you usually need to add few lines to `config/routing.yml`.
 
